@@ -1,4 +1,4 @@
-"""User enters name and interactively derives anagram phrase from name.
+ """User enters name and interactively derives anagram phrase from name.
 
 Requires access to an external English word dictionary file
 and file-loading module "load_dictionary.py"
